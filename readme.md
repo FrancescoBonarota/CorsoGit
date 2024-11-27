@@ -13,4 +13,7 @@ git clone https://github.com/FrancescoBonarota/CorsoGit.git
 
 cd nome-repository​
 
+source .venv/bin/activate
+pip install -r ./requirements.txt
+
 ## Licenza
