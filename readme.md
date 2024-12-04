@@ -17,3 +17,4 @@ source .venv/bin/activate
 pip install -r ./requirements.txt
 
 ## Licenza
+La licenza del software è gratuita
