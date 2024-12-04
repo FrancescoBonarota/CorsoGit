@@ -1,6 +1,7 @@
 import logging
 import pandas as pd
 import numpy
+print("main")
 
 import pandas as pd
 
@@ -26,7 +27,7 @@ def compute_avg():
     avg_votes = df_stud.mean(axis=0)  # Calcola la media lungo le righe per ogni colonna
     
     print(f"\n\nLa media voto per ogni studente: \n{avg_votes.to_string()}")    
-
+    print("fine calcolo avg")
 
 
 def max_numbers():
