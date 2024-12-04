@@ -14,3 +14,4 @@ git clone https://github.com/FrancescoBonarota/CorsoGit.git
 cd nome-repository​
 
 ## Licenza
+licenza gratuita
