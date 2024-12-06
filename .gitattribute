@@ -1,2 +1,0 @@
-# Rimuove gli output dai notebook Jupyter
-*.ipynb filter=nbstripout
