@@ -15,7 +15,7 @@ def compute_avg():
     "andrea": [8, 10, 7, 8],
     "gino": [5, 6, 6, 6],
     "lorenzo": [6, 7, 7, 8],
-    "pino": [4, 4, 3, 4]
+    "pino": [4, 4, 3, 10]
     }
 
     df_stud = pd.DataFrame(students, index = ["matematica", "informatica", "inglese", "italiano"])
