@@ -11,7 +11,7 @@ def compute_avg():
     
     # crea un dataframe con i voti degli studenti
     students = {
-    "francesco": [7, 8, 5, 10],
+    "francesco": [7, 8, 6, 10],
     "andrea": [8, 10, 7, 8],
     "gino": [5, 6, 6, 6],
     "lorenzo": [6, 7, 7, 8],
