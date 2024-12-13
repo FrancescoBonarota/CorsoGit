@@ -17,6 +17,7 @@ def compute_avg():
     "lorenzo": [6, 7, 7, 8],
     "pino": [4, 4, 3, 10],
     "chiara": [4, 4, 3, 10],
+    "carlo": [5, 6, 6, 6],
     "giovanna": [4, 4, 3, 10],
     }
 
