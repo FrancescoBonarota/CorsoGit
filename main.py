@@ -20,7 +20,7 @@ def compute_avg():
 
     df_stud = pd.DataFrame(students, index = ["matematica", "informatica", "inglese", "italiano"])
 
-    print(f"\n\nI voti per ogni studente in ogni materia: \n{df_stud}") 
+    print(f"\n\nI voti per ogni studente in ogni materia sono: \n{df_stud}") 
 
     # Calcola la media dei voti per ogni studente
     avg_votes = df_stud.mean(axis=0)  # Calcola la media lungo le righe per ogni colonna
